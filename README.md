@@ -21,6 +21,6 @@
 * **Coding photo** was provided by [Negative Space](https://www.pexels.com/photo/coffee-writing-computer-blogging-34676/).
 * **Traveling photo** was provided by [Josh Sorenson](https://www.pexels.com/photo/flight-flying-plane-air-travel-59519/).
 * **Photography photo** was provided by [Photo Mix](https://www.pexels.com/photo/black-dslr-camera-mounted-on-black-tripod-212372/).
-* **Gaming photo** was provided by [JESHOOTS.com](hhttps://www.pexels.com/photo/blur-close-up-device-display-442576/).
+* **Gaming photo** was provided by [JESHOOTS.com](https://www.pexels.com/photo/blur-close-up-device-display-442576/).
 
 
