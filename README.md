@@ -3,7 +3,7 @@
 
 ## Getting Started
 
-* You can *[clone](https://github.com/arrickx/Movie-Trailer-Website.git)* or *[download](https://github.com/arrickx/Movie-Trailer-Website.git)* this project via [GitHub](https://github.com) to your local machine.
+* You can *[clone](https://github.com/arrickx/Portfolio-Site.git)* or *[download](https://github.com/arrickx/Portfolio-Site.git)* this project via [GitHub](https://github.com) to your local machine.
 
 ### How to use
 
