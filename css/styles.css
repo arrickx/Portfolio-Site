@@ -1,44 +1,53 @@
 header {
-	font-family: 'Trebuchet MS', Helvetica, sans-serif;
+	font-family: "Trebuchet MS", Helvetica, sans-serif;
 	border-bottom-style: solid;
 	border-color: #7d97ad;
 }
+
 body {
-	font-family: 'Roboto', sans-serif;
+	font-family: "Roboto", sans-serif;
 	color:#2d3c49;
 	margin: 5px 15px;
 }
+
 h1 {
 	font-weight: 200;
 }
+
 h2 {
 	font-size: 16px;
 	font-weight: 300;
 }
+
 h3 {
 	font-size: 18px;
 	font-weight: 500;
 }
+
 p {
-	font-family: 'Lucida Sans Unicode', 'Lucida Grande', sans-serif;
+	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
 	font-weight: 200;
-	color:#7d97ad;
+	color: #7d97ad;
 	padding-left: 20px;
 	font-size: 23px;
 }
+
 .logo {
 	align-items: center;
 	float: left;
 	padding-left: 10px;
 }
+
 .name {
 	text-align: right;
 	padding-right: 15px;
 }
+
 .featureitem img{
 	padding-top: 20px;
 	width: 100%
 }
+
 .container {
 	width: 100% ;
 	display: flex;
@@ -46,10 +55,12 @@ p {
 	margin: auto;
 	justify-content: space-around;
 }
+
 .item {
 	text-align: center;
 	max-width: 550px;
 }
+
 .item img {
 	width: 100%
 }
