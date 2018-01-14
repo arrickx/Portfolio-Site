@@ -9,6 +9,7 @@
 
 * Open and Run the **index.html**
 * You can resize the website to fit your preference.
+* Or you can simply vist this **[website](https://arrickx.github.io/Portfolio-Site/)**.
 
 
 ## License
